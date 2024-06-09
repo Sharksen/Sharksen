@@ -1,0 +1,108 @@
+body{ 
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(realistic-flying-plane-in-blue-sky-realistic-airplane-in-the-blue-sky-with-cloud-background-free-vector.jpg);
+    background-size: cover ;
+    background-position: center;
+    width: auto;
+    color:rgb(0, 0, 0);
+}
+
+nav,h1{
+    text-align: center;
+}
+
+h1{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    text-decoration: underline;
+}
+
+button {
+    background-color:rgb(15, 100, 136);
+    color:rgb(241, 241, 241);
+    border-radius: 15px;
+    padding: 5px 5px;
+    margin-right: 7px;
+}
+
+a{
+ color: white;
+
+}
+
+.FAIR{ 
+   padding-left: 10px;
+   padding-right: 10px;
+
+}
+.header{ 
+    font-size: 16px;
+
+}
+  
+
+#CAVOK { 
+    margin-top:8px;
+    width: 100%;
+}
+
+h2{ 
+    display: inline-block;
+    padding :3px;
+    margin-left: 55px;
+    margin-top: 3px;
+    border: 3px  darkcyan dotted;
+}
+
+hr{ 
+    margin:0;
+}
+
+button:hover{ 
+    
+    color: black;
+    opacity: 75%;
+}
+
+button a { 
+    text-decoration: none;
+    opacity: 75%;
+}
+
+
+button a:hover { 
+    text-decoration: none;
+    opacity: 75%;
+    color: black;
+    transition: none;
+}
+
+img{ 
+    background-image: 100%;
+}
+
+.Egnaia-header  {
+     
+    display: inline-block;
+    padding :3px;
+    margin-left: 155px;
+    margin-top: 10px;
+    border: 3px  darkcyan dotted;
+
+    background-color:rgb(15, 100, 136);
+    color:rgb(241, 241, 241);
+    border-radius: 15px;
+    padding: 5px 5px;
+}
+
+.cavok-header{ 
+    background-color:rgb(15, 100, 136);
+    color:rgb(241, 241, 241);
+    border: 3px  darkcyan dotted;
+    border-radius: 15px;
+    padding: 5px 5px;
+
+
+
+}
